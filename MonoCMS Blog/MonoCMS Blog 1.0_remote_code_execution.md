@@ -2,7 +2,7 @@
 
 ## Detail:
 At monofiles/category.php:27, user input was saved to category/[foldername]/index.php causing RCE.
-![image](https://github.com/fortest-1/vuln/blob/main/MonoCMS%20Blog/img/2.png?raw=true)
+![image](https://github.com/fortest-1/vuln/blob/main/MonoCMS%20Blog/img/3.png?raw=true)
 
 
 
